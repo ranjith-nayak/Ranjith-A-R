@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true&locale=en" alt="ranjith-nayak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith-nayak&" alt="ranjith-nayak" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjith-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="ranjith-nayak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjith-nayak" alt="ranjith-nayak" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjith-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="ranjith-nayak" /> </p>
